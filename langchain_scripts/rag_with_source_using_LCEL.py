@@ -1,3 +1,6 @@
+# https://python.langchain.com/docs/expression_language/cookbook/retrieval -> reference
+
+
 import os 
 from dotenv import load_dotenv, find_dotenv
 from operator import itemgetter
